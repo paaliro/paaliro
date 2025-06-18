@@ -9,7 +9,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=paaliro&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paaliro&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=paaliro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
