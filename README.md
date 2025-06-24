@@ -5,8 +5,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
-💫 About Me
-👋 Hey there, I'm Parveen Kumar!
+<h1 style="font-size: 36px;">:man_technologist: About Me :</h1>
+
 I'm a Web Developer currently working at a tech company, where I’m building responsive, user-friendly web applications using modern frontend and backend technologies.
 Over the past 6+ months, I’ve gained hands-on experience working with a wide range of tools and frameworks — from building sleek UIs with Tailwind CSS to creating dynamic SPAs with React and Nuxt.
 
@@ -38,6 +38,20 @@ Thanks for visiting my profile! 😊 Feel free to check out my pinned projects b
 
 
 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/paaliro">
+    <img src="https://github-readme-stats.vercel.app/api?username=paaliro&show_icons=true&theme=tokyonight" alt="paaliro's GitHub stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/paaliro">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paaliro&layout=compact&theme=tokyonight" alt="Top languages" />
+  </a>
+</p>
+
+
 
 
 🔝 Top Contributed Repo
