@@ -32,9 +32,8 @@
     <li>Keep improving every single day 💪</li>
 </ul>
 
-
-📫 Let’s Connect
-Thanks for visiting my profile! 😊 Feel free to check out my pinned projects below.
+<h2>📫 Let’s Connect</h2>
+<p>Thanks for visiting my profile! 😊 Feel free to check out my pinned projects below.</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
@@ -48,9 +47,3 @@ Thanks for visiting my profile! 😊 Feel free to check out my pinned projects b
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paaliro&layout=compact&theme=tokyonight" alt="Top languages" />
   </a>
 </p>
-
-
-
-
-🔝 Top Contributed Repo
-Coming soon! Check out my pinned repositories below for now.
