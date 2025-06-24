@@ -40,15 +40,17 @@
 <h2>📫 Let’s Connect</h2>
 <p>Thanks for visiting my profile! 😊 Feel free to check out my pinned projects below.</p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🔥 GitHub Streaks</h2>
 <p align="center">
-  <a href="https://github.com/paaliro">
-    <img src="https://github-readme-stats.vercel.app/api?username=paaliro&show_icons=true&theme=tokyonight" alt="paaliro's GitHub stats" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=paaliro&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<h2 align="center">📊 GitHub Stats & 🧠 Top Languages</h2>
 <p align="center">
-  <a href="https://github.com/paaliro">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paaliro&layout=compact&theme=tokyonight" alt="Top languages" />
-  </a>
+  <span>
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=paaliro&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  </span>
+  <span>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paaliro&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  </span>
 </p>
