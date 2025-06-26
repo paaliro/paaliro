@@ -16,7 +16,7 @@
 <ul style="font-size: 18px; color: #2d3748; margin-top: 10px;">
   <li><strong>Frontend</strong>: HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Nuxt.js</li>
     <li><strong>Backend</strong>: Node.js (Basics) </li>
-    <li><strong>Currently Learning:</strong>: Advanced React patterns, API integration, backend development</li>
+    <li><strong>Currently Learning</strong>: Advanced React patterns, API integration, backend development</li>
 </ul>
 
 <h2>Skills</h2>
