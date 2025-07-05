@@ -38,7 +38,7 @@
 </ul>
 
 <h2>📫 Let’s Connect</h2>
-<p>Thanks for visiting my profile! 😊 Feel free to check out my pinned projects below.</p>
+<p>Thanks for visiting my profile!</p>
 
 <h2 align="center">🔥 GitHub Streaks</h2>
 <p align="center">
