@@ -9,7 +9,7 @@
   :man_technologist: About Me
 </h1>
 <p  align="center" style="font-size: 18px; line-height: 1.6; color: #2d3748;">
-  I'm a passionate Web Developer at a cutting-edge tech company, specializing in crafting responsive, high-performance web applications that prioritize user experience. With over 6 months of hands-on experience, I leverage a robust tech stack to deliver seamless solutions, from pixel-perfect, accessible UIs to dynamic, scalable single-page applications (SPAs). My expertise spans:
+  I'm a passionate Web Developer at a cutting-edge tech company, specializing in crafting responsive, high-performance web applications that prioritize user experience. With over 6 months of hands-on experience, I leverage a robust tech stack to deliver seamless solutions, from pixel-perfect, accessible UIs to dynamic, scalable single-page applications (SPAs).  My expertise spans:
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
