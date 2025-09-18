@@ -4,6 +4,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="290"/>
 </div> 
+ 
 
 <h1 align="center" style="font-size: 48px; font-weight: bold; color: #1a202c; margin-bottom: 20px;">
   :man_technologist: About Me
